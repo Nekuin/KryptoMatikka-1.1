@@ -8,6 +8,7 @@ public class FrequencyCalculator {
 	public Map<Character, Integer> calculateFrequency(String input){
 		Map<Character, Integer> map = new HashMap<>();
 		for(char c : input.toCharArray()) {
+			//skip " " (space)  \t \n etc
 			if(!Character.toString(c).matches("[a-z?]")) {
 				continue;
 			}
