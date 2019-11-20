@@ -2,8 +2,8 @@ Tiedon salaus ja kryptomatematiikka 1.1
 
 console output:
 
-```Frequencies:
-
+```
+Frequencies:
 a 5
 b 68
 c 5
@@ -45,4 +45,5 @@ sound and shapeless shape i do not deem myself the final
 authority but my experience with kata has left no doubt
 that the following is the proper application and
 interpretation i offer my theories in the hope that the
-essence of okinawan karate will remain intact````
+essence of okinawan karate will remain intact
+```
